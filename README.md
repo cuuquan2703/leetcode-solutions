@@ -2,6 +2,7 @@
 
 | Problem                                                                                                   | Difficulty                               |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [Sodoku Solver](/Sudoku%20Solver/)                                             | <span style="color:red">Hard</span>      |
 | [Median of 2 Sorted Array](/Median%20of%202%20sorted%20array)                                             | <span style="color:red">Hard</span>      |
 | [Regular Expression Matching](/Regular%20Expression%20Matching/)                                          | <span style="color:red">Hard</span>      |
 | [Add Two Numbers](Add%20Two%20Numbers/)                                                                   | <span style="color:orange">Medium</span> |
