@@ -2,6 +2,7 @@
 
 | Problem                                                                                                   | Difficulty                               |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [N-Queen](/Sudoku%20Solver/)                                             | <span style="color:red">Hard</span>      |
 | [Sodoku Solver](/Sudoku%20Solver/)                                             | <span style="color:red">Hard</span>      |
 | [Median of 2 Sorted Array](/Median%20of%202%20sorted%20array)                                             | <span style="color:red">Hard</span>      |
 | [Regular Expression Matching](/Regular%20Expression%20Matching/)                                          | <span style="color:red">Hard</span>      |
